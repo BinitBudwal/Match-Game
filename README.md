@@ -9,7 +9,7 @@ A simple game of matchinting shown icon with the icons hidden in the game.
 REQUIREMENTS
 ------------
 
-This does npt  requires any special requirements just fork the repository and enjoy the game .
+This does not requires any special requirements just fork the repository and enjoy the game .
 
 
 
